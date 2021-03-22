@@ -1,0 +1,11 @@
+{
+  "name": "atividades_uni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ATIVIDADES.js",
+  "scripts": {
+    "start": "nodemon ATIVIDADES.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
